@@ -1,5 +1,4 @@
 # ylkim1
 
-Hi everyone!
-
-My name is Alex Kim.
+Alex Kim #149944191
+OPS445NAA
